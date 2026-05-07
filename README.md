@@ -22,7 +22,7 @@ This project demonstrates practical skills in:
 
 ### Executive Revenue Dashboard
 
-![Executive Revenue Dashboard](images/executive_dashboard.png)
+![Executive Revenue Dashboard](snapshots/executive_dashboard.png)
 
 ---
 
