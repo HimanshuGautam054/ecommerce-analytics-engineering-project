@@ -18,6 +18,19 @@ This project demonstrates practical skills in:
 - Git & GitHub Version Control
 
 ---
+## Dashboard Screenshots
+
+### Executive Revenue Dashboard
+
+![Executive Revenue Dashboard](images/executive_dashboard.png)
+
+---
+
+### Customer Retention Dashboard
+
+![Customer Retention Dashboard](images/customer_retention_dashboard.png)
+
+---
 
 ## Tech Stack
 
