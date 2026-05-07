@@ -28,7 +28,7 @@ This project demonstrates practical skills in:
 
 ### Customer Retention Dashboard
 
-![Customer Retention Dashboard](images/customer_retention_dashboard.png)
+![Customer Retention Dashboard](snapshots/customer_retention_dashboard.png)
 
 ---
 
