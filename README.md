@@ -195,8 +195,4 @@ Aspiring Data Analyst | SQL | Power BI | DBT | BigQuery | Looker Studio
 GitHub:
 https://github.com/HimanshuGautam054
 
----
 
-## Project Status
-
-Completed and Production-Ready for Portfolio Showcase
